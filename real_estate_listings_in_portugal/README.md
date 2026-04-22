@@ -130,6 +130,22 @@ Models tested:
 
 ---
 
+## 🔹 Structure
+
+real-estate-price-analysis/  
+│  
+├── notebooks/  
+│   └── real_estate_listings_in_portugal.ipynb  
+│
+├── images/  
+│   ├── category_confidence_intervals.png  
+│   └── model_rmse_comparison.png  
+│
+├── README.md  
+└── requirements.txt  
+
+---
+
 ## 🔹 Tech Stack
 
 * Python
